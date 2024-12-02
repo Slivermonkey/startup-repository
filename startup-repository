@@ -1,0 +1,6 @@
+<html>
+<body>
+  <script src="example.js"></script>
+  <button onclick="greet('World')">Click me</button>
+</body>
+</html>
